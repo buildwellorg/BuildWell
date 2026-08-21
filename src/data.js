@@ -19,7 +19,7 @@ import salvinPhoto from "./assets/file_0000000097c071f8b58e0a75d26be8e1.png";
 export const BRAND = {
   name: "BuildWell",
   short: "BW",
-  tagline: "Build Better. Grow Faster.",
+  tagline: "Giving Businesses a Digital Home",
 };
 
 export const TEAM = [
