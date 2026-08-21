@@ -297,7 +297,7 @@ export const PRICING = {
 export const CONTACT = {
   intro:
     "Have a website that's slow, insecure, or just needs a rebuild? Reach out to either of us — we work as one team.",
-  email: "brightsite0fficial2@gmail.com",
+  email: "buildwellorg@gmail.com",
 };
 
 // ---------------------------------------------------------------------------
@@ -319,7 +319,7 @@ export const TERMS = {
         { p: "BuildWell is an independent web development team operated by:" },
         { p: "Manoj B Kunachi" },
         { p: "Salvin Dsouza" },
-        { p: "Email: brightsite0fficial2@gmail.com" },
+        { p: "Email: buildwellorg@gmail.com" },
         { p: "Phone/WhatsApp: +91 9972590329 (Manoj) · +91-9284812726 (Salvin)" },
         { p: "Address: Belagavi, Karnataka, India" },
         {
@@ -1077,7 +1077,7 @@ export const TERMS = {
       blocks: [
         { p: "If you have questions regarding these Terms or our services, contact us at:" },
         { p: "BuildWell" },
-        { p: "Email: brightsite0fficial2@gmail.com" },
+        { p: "Email: buildwellorg@gmail.com" },
         { p: "Phone/WhatsApp: +91 9972590329 (Manoj) · +91-9284812726 (Salvin)" },
       ],
     },
