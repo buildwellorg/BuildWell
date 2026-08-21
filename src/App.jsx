@@ -5,7 +5,7 @@ import Lenis from "lenis";
 import { db } from "./firebase";
 import { sendSubmissionEmails } from "./emailjs";
 import { BRAND, TEAM, SERVICES, INDUSTRIES, PROJECTS, PRICING, CONTACT, TERMS } from "./data";
-import logo from "./assets/logo.png";
+import logo from "./assets/buildwell-mark.png";
 import "./App.css";
 
 function Reveal({ children }) {
